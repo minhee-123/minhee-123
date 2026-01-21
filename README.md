@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=243B55&text=Embedded%20SW%20Portfolio&fontSize=40&fontColor=ffffff&animation=fadeIn&height=140&section=header)
+![header](https://capsule-render.vercel.app/api?type=soft&color=34495e&text=Minhee%20Lee&fontSize=38&fontColor=ecf0f1&animation=fadeIn&height=130&fontAlignY=42)
