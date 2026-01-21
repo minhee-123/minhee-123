@@ -21,19 +21,18 @@ valsgml@&#8203;naver.com
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=minhee-123&show_icons=true&hide_rank=true&hide=stars,issues&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api?username=minhee-123&show_icons=true&hide_rank=true&hide=stars,issues" height="150">
-  </picture><picture>
+  </picture>
+  
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhee-123&layout=compact&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhee-123&layout=compact" height="150">
   </picture>
 
-  <table width="75%">
+<table border="0" cellpadding="0" cellspacing="0" width="750">
     <tr>
-      <td align="left">
-        <kbd><b>🐍 Contribution Snake</b></kbd>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td align="left" style="border: none; padding-top: 10px; line-height: 0;">
+        <img src="https://latex.codecogs.com/svg.image?\color[RGB]{47,128,237}\textsf{\textbf{Contribution&space;Snake}}" alt="Contribution Snake" height="20">
+        <br>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhee-123/minhee-123/output/snake-dark.svg">
           <img src="https://raw.githubusercontent.com/minhee-123/minhee-123/output/snake.svg" alt="snake animation" width="100%">
