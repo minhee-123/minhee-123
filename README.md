@@ -20,12 +20,12 @@ valsgml@&#8203;naver.com
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=minhee-123&show_icons=true&hide_rank=true&hide=stars,issues&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api?username=minhee-123&show_icons=true&hide_rank=true&hide=stars,issues">
+    <img src="https://github-readme-stats.vercel.app/api?username=minhee-123&show_icons=true&hide_rank=true&hide=stars,issues" height="150">
   </picture>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhee-123&layout=compact&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhee-123&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhee-123&layout=compact" height="150">
   </picture>
 </p>
 
@@ -34,15 +34,13 @@ valsgml@&#8203;naver.com
 #### 💻 BOJ Level 💻
 <p align="center">
   <a href="https://solved.ac/profile/lmh_fighting">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lmh_fighting" alt="Solved.ac Tier">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lmh_fighting" height="150" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://solved.ac/profile/lmh_fighting">
-    <img src="https://mazandi.herokuapp.com/api?handle=lmh_fighting&theme=warm" alt="Solved.ac Streak">
+    <a href="https://solved.ac/profile/lmh_fighting">
+    <img src="https://mazandi.herokuapp.com/api?handle=lmh_fighting&theme=cold" height="150" />
   </a>
 </p>
 
 <br>
+
 </div>
