@@ -32,7 +32,17 @@ valsgml@&#8203;naver.com
 <br>
 
 #### 💻 BOJ Level 💻
+<p align="center">
+  <a href="https://solved.ac/profile/lmh_fighting">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lmh_fighting" alt="Solved.ac Tier">
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://solved.ac/profile/lmh_fighting">
+    <img src="https://mazandi.herokuapp.com/api?handle=lmh_fighting&theme=warm" alt="Solved.ac Streak">
+  </a>
+</p>
 
 <br>
 </div>
