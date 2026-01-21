@@ -17,12 +17,22 @@ valsgml@&#8203;naver.com
 <br>
 
 #### 📈 Stats 📈
-수정
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=minhee-123&show_icons=true&hide_rank=true&hide=stars,issues&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=minhee-123&show_icons=true&hide_rank=true&hide=stars,issues">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhee-123&layout=compact&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhee-123&layout=compact">
+  </picture>
+</p>
 
 <br>
 
 #### 💻 BOJ Level 💻
-수정
+
 
 <br>
 </div>
