@@ -17,17 +17,31 @@ valsgml@&#8203;naver.com
 <br>
 
 #### 📈 Stats 📈
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=minhee-123&show_icons=true&hide_rank=true&hide=stars,issues&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api?username=minhee-123&show_icons=true&hide_rank=true&hide=stars,issues" height="150">
-  </picture>
-
-  <picture>
+  </picture><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minhee-123&layout=compact&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhee-123&layout=compact" height="150">
   </picture>
-</p>
+
+  <table width="75%">
+    <tr>
+      <td align="left">
+        <kbd><b>🐍 Contribution Snake</b></kbd>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhee-123/minhee-123/output/snake-dark.svg">
+          <img src="https://raw.githubusercontent.com/minhee-123/minhee-123/output/snake.svg" alt="snake animation" width="100%">
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
