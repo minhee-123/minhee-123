@@ -26,10 +26,10 @@ valsgml@&#8203;naver.com
 #### 📈 Stats 📈
 <p align="center">
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=minhee-123&show_icons=true&hide_rank=true&hide=stars,issues" height="150">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=minhee-123&show_icons=true&hide=stars,issues" height="150">
   </picture>
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhee-123&layout=compact" height="150">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minhee-123&layout=compact" height="150">
   </picture>
 </p>
 
