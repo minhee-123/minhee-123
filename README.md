@@ -2,7 +2,7 @@
 <div align="center">
 
 #### 💎 About Me 💎
-Embedded SW Engineer  |  Fast Learner  |  Diverse Project Experience
+Embedded Software Engineer  |  Fast Learner  |  Diverse Project Experience
 
 <br>
 
